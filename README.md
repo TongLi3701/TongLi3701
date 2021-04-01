@@ -1,3 +1,4 @@
+![image-0](https://github.com/PangaeaData/HPOGoldStandard/blob/master/docs/images/guideline-4.png)
 ### Hi there 👋
 
 <!--
