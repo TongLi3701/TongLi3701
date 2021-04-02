@@ -1,6 +1,10 @@
 ![image-0](https://github.com/PangaeaData/HPOGoldStandard/blob/master/docs/images/guideline-4.png)
 ### Hi there 👋
 
+I am Tong Li, welcome to my Github
+* 🎓 Master of science in Advanced Computing at Imperial College London with Distincation
+* 🧐 Interested in Machine Learning, NLP, Recommendation System and Distributed SYstem
+* 💼 Machine Learning Engineer at PangaeaData.AI
 <!--
 **TongLi3701/TongLi3701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
