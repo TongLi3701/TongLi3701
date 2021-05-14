@@ -1,4 +1,3 @@
-![image-1](https://github.com/TongLi3701/TongLi3701/blob/main/docs/1.png)
 ## Hi there 👋
 
 I am Tong Li, welcome to my Github
