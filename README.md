@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 I am Tong Li, welcome to my Github
-* 🎓 Master of science in Advanced Computing at Imperial College London with Distincation
-* 🧐 Interested in Machine Learning, NLP, Recommendation System and Distributed System
-* 💼 Machine Learning Engineer at PangaeaData.AI
+* 🎓  &nbsp; Master of science in Advanced Computing at Imperial College London with Distincation
+* 🧐  &nbsp; Interested in Machine Learning, NLP, Recommendation System and Distributed System
+* 💼  &nbsp; Machine Learning Engineer at PangaeaData.AI
 <!--
 **TongLi3701/TongLi3701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
