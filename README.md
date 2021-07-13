@@ -1,9 +1,12 @@
 ## Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TongLi3701&count_private=true&theme=tokyonight&hide=stars" align="right" style="margin-bottom: 20px;"/>
+
 I am Tong Li, welcome to my Github
 * 🎓  &nbsp; Master of science in Advanced Computing at Imperial College London with Distincation
 * 🧐  &nbsp; Interested in Machine Learning, NLP, Recommendation System and Distributed System
 * 💼  &nbsp; Machine Learning Engineer at PangaeaData.AI
+
 <!--
 **TongLi3701/TongLi3701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
