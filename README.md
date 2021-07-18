@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=TongLi3701&count_private=true&theme=tokyonight&hide=stars" align="right" style="margin-bottom: 20px;"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TongLi3701&count_private=true&theme=tokyonight&hide=stars&show_icons=true" align="right" style="margin-bottom: 20px;"/>
 
 I am Tong Li, welcome to my Github
 * 🎓  &nbsp; Master of science in Advanced Computing at Imperial College London with Distincation
