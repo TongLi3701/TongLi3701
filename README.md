@@ -4,7 +4,7 @@
 
 I am Tong Li, welcome to my Github
 * 🎓  &nbsp; Master of science in Advanced Computing at Imperial College London with Distinction
-* 🧐  &nbsp; Interested in NLP, ML System, and Distributed System, Recommendation System
+* 🧐  &nbsp; Interested in NLP, ML System and Framework, and Distributed System
 * 💼  &nbsp; Machine Learning Engineer at [PangaeaData](https://www.pangaeadata.ai/)
 
 <!--
