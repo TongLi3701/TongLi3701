@@ -2,7 +2,7 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=TongLi3701&count_private=true&theme=tokyonight&hide=stars&show_icons=true" align="right" style="margin-bottom: 20px;"/> -->
 
 I am Tong Li, welcome to my Github
-* 💼  &nbsp; NLP Engineer at [HPC-AI Tech](https://www.hpc-ai.tech/), making contributions to a populuar open-source framework: [Colossal AI](https://github.com/hpcaitech/ColossalAI)
+* 💼  &nbsp; NLP Tech Lead at [HPC-AI Tech](https://www.hpc-ai.tech/), making contributions to a populuar open-source framework: [Colossal AI](https://github.com/hpcaitech/ColossalAI)
 * 🎓  &nbsp; Master of science in Advanced Computing at Imperial College London with Distinction
 * 🧐  &nbsp; Interested in NLP, ML System and Framework, and Distributed System
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TongLi3701&label=Profile%20views&color=0e75b6&style=flat" alt="username" /> </p>
